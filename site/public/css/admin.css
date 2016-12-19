@@ -1,0 +1,20 @@
+.media-body{
+	position:relative;
+}
+.add{
+	position:absolute;
+	width:20px;
+	bottom:0;
+	right:0;
+	top:0;
+}
+.media-left {
+	padding-left:30px;
+}
+.delete{
+	position:absolute;
+	width:20px;
+	top:0;
+	bottom:0;
+	right:20px;
+}
